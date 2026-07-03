@@ -1,4 +1,4 @@
-# WF Auto-Scouter v3
+# WF Artist-Scouter v3
 ### WorldFest Artist Discovery Tool — Saarang 2027
 
 Two-script pipeline: **scout** → **rank**
